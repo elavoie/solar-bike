@@ -26,6 +26,8 @@ Therefore the ideal solar bike would have no weight, an infinite surface of sola
 ## Practical Concept
 
 Top-Down View:
+
+````
                         VW
                +--------------------+
                   CW
@@ -53,7 +55,7 @@ Top-Down View:
        |       |      |      |      |
        |       |      |      |      |
        +       +------+------+------+
-
+````
 
 
 
