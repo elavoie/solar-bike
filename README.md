@@ -11,6 +11,7 @@ Notes for building an open hardware solar transportation vehicle.
 * Use as many standard bike and solar energy components as possible;
 * Can be easily assembled and disassembled in 10-15 min;
 * Fits in an average appartment storage space after disassembly;
+* Can carry multiple times itself when disassembled (which allows bootstrapping a delivery network with itself);
 * Fits 2-4 people actively pedalling: when less than 4 people, the extra space can be replaced by carrying capacity for luggage;
 * Minimize the use of short-lived components, such as batteries.
 
