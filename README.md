@@ -5,6 +5,7 @@ Notes for building an open hardware solar transportation vehicle.
 # Constraints
 
 * Can run at the speed of traffic on secondary roads (40-60 km/h);
+* Can carry cargo;
 * Require limited manufacturing skills:
   * Ideally no soldering or custom frame building;
 * Use as many standard bike and solar energy components as possible;
