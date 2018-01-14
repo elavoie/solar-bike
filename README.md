@@ -23,6 +23,40 @@ Notes for building an open hardware solar transportation vehicle.
 Therefore the ideal solar bike would have no weight, an infinite surface of solar panels, and an infinite number of super fit people pedaling under the panels in a tight pack to minimize the frontal area.
 
 
+## Practical Concept
+
+Top-Down View:
+                        VW
+               +--------------------+
+                  CW
+               +------+
+
+       +    +  +------+------+------+
+       |    |  |      |      |      |
+       |    |  |      |      |      |
+       |  CL|  |  C1  |      |  C2  |
+       |    |  |      |      |      |
+       |    |  |      |      |      |
+       |    |  |      |      |      |
+       |    +  +------+      +------+
+       |       |                    |
+       |       |                    |
+       |       |        Solar       |
+       |       |        Panels      |
+    VL |       |                    |
+       |       |                    |
+       |       +------+      +------+
+       |       |      |      |      |
+       |       |      |      |      |
+       |       |  C3  |      |  C4  |
+       |       |      |      |      |
+       |       |      |      |      |
+       |       |      |      |      |
+       +       +------+------+------+
+
+
+
+
 # Preliminary Design
 
 ## Typical Cyclist Dimensions
