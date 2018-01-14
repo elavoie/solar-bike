@@ -42,7 +42,7 @@ Taken from: https://ops.fhwa.dot.gov/FREIGHT/publications/size_regs_final_rpt/in
 
 # Possibly Useful Components
 
-* S-S Couplers
+* S-S Bicycle Torque Coupling For Quickly Assembling-Disassembling Bike Frames: http://sandsmachine.com/
 * 
 
 # Related Works
