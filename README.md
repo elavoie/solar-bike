@@ -23,6 +23,14 @@ Notes for building an open hardware solar transportation vehicle.
 
 Therefore the ideal solar bike would have no weight, an infinite surface of solar panels, and an infinite number of super fit people pedaling under the panels in a tight pack to minimize the frontal area.
 
+## Principles
+
+* Replace material with control sofware;
+* Use a single bike as a basic element and combine multiple bikes/cargo cycles/etc. to create the vehicle;
+* Make the design a flexible modular 'connective-tissue' between the individual bikes;
+* Aim for a better power/weight ratio per cyclist than existing alternatives;
+* Worry about aerodynamism and single-bike weight optimization later: if the 'connective-tissue' is flexible and modular enough, it should allow significant room for improvement without changing the basic principles (ex: accomodate replacing a cyclist with cargo and a powered wheel, use lower recumbent bikes and make the solar panels cover the cyclists also, etc.);
+* Focus on designing solid and flexible interconnections for modularity.
 
 ## Practical Concept
 
