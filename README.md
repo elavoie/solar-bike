@@ -128,3 +128,4 @@ Taken from: https://ops.fhwa.dot.gov/FREIGHT/publications/size_regs_final_rpt/in
 # Related Works
 
 * Maxun solar bike: http://maxun.cc/solar-cycling
+* e-lectrike vehicles: http://e-lectrike.lu/vehicles/
