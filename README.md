@@ -77,13 +77,21 @@ VL |       |                    |
 
 # Preliminary Design
 
-## Typical Cyclist Dimensions
+## Typical Cyclist
+
+### Dimensions
 
 * Stationary width: 0.6m 
 * Essential maneuvering space width: 0.9m
 * Length: 1.5-1.8m
 
 Taken from: http://www.dot.state.mn.us/bike/pdfs/manual/Chapter3.pdf
+
+### Power
+
+* Average Non-trained: 100W Sustained
+* Average Active: 100-200W Sustained
+* Elite: 400W Sustained
 
 ## Vehicle constraints
 
