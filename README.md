@@ -2,6 +2,8 @@
 
 Notes for building an open hardware solar transportation vehicle.
 
+Licence: CERN Open Hardware Licence Version 1.2
+
 # Constraints
 
 * Can run at the speed of traffic on secondary roads (40-60 km/h);
@@ -126,6 +128,3 @@ Taken from: https://ops.fhwa.dot.gov/FREIGHT/publications/size_regs_final_rpt/in
 # Related Works
 
 * Maxun solar bike: http://maxun.cc/solar-cycling
-
-
-License: CERN OHL version 1.2
