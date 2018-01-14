@@ -12,7 +12,7 @@ Licence: CERN Open Hardware Licence Version 1.2
   * Ideally no soldering or custom frame building;
 * Use as many standard bike and solar energy components as possible;
 * Can be easily assembled and disassembled in 10-15 min;
-* Fits in an average appartment storage space after disassembly;
+* Fits in an average apartment storage space after disassembly;
 * Can carry multiple times disassembled copies of itself (which allows bootstrapping a delivery network with itself);
 * Fits 2-4 people actively pedalling: when less than 4 people, the extra space can be replaced by carrying capacity for luggage;
 * Minimize the use of short-lived components, such as batteries;
