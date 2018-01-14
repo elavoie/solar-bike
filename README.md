@@ -112,7 +112,7 @@ Taken from: https://ops.fhwa.dot.gov/FREIGHT/publications/size_regs_final_rpt/in
 
 ## Electric Motor
 
-* Efficiency: ?? %
+* Efficiency: >= 80 % (for [Bafang motors](http://www.bafang-e.com/en/components/component/motor/mm-g520250.html))
 
 
 ## Observations
