@@ -95,8 +95,9 @@ Taken from: https://ops.fhwa.dot.gov/FREIGHT/publications/size_regs_final_rpt/in
 
 * Typical Insolation: 1000W/m2
 * PV solar panel efficiency: 10-20% (100-200W/m2)
+* Cost: <1$US/W
 
-# Electric Motor
+## Electric Motor
 
 * Efficiency: ?? %
 
