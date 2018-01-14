@@ -13,7 +13,9 @@ Notes for building an open hardware solar transportation vehicle.
 * Fits in an average appartment storage space after disassembly;
 * Can carry multiple times disassembled copies of itself (which allows bootstrapping a delivery network with itself);
 * Fits 2-4 people actively pedalling: when less than 4 people, the extra space can be replaced by carrying capacity for luggage;
-* Minimize the use of short-lived components, such as batteries.
+* Minimize the use of short-lived components, such as batteries;
+* The solar panels should be easily and quickly available for other things when the vehicle is not in use (which amortizes the cost of panels on multiple usages and enables all sorts of nomad capabilities, such as manufacturing, repair, etc.);
+* Allow a sub-set of the parts to be used when a single person wants to travel shorter distances and the others do not need/want to travel with that person.
 
 # Design Concept
 
