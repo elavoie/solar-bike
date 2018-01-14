@@ -73,7 +73,7 @@ VL |       |                    |
    +       +------+------+------+
 ````
 
-
+Solar Panel Surface: VW*VL - 4*(CW*CL)
 
 # Preliminary Design
 
