@@ -91,6 +91,20 @@ Taken from: http://www.dot.state.mn.us/bike/pdfs/manual/Chapter3.pdf
 
 Taken from: https://ops.fhwa.dot.gov/FREIGHT/publications/size_regs_final_rpt/index.htm#width
 
+## Solar Power
+
+* Typical Insolation: 1000W/m2
+* PV solar panel efficiency: 10-20% (100-200W/m2)
+
+# Electric Motor
+
+* Efficiency: ?? %
+
+
+## Observations
+
+* The surface area occupied by a cyclist can be used to produce 1-2x the mechanical power of an average cyclist using solar panels and an electric motor
+
 
 # Possibly Useful Components
 
