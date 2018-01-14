@@ -123,7 +123,7 @@ Taken from: https://ops.fhwa.dot.gov/FREIGHT/publications/size_regs_final_rpt/in
 # Possibly Useful Components
 
 * S-S Bicycle Torque Coupling For Quickly Assembling-Disassembling Bike Frames: http://sandsmachine.com/
-* 
+* Mid-drive kits from solarbike.com: [250-350W](http://solarbike.com.au/electrickits/250-350-watt-8fun-mid-drive-kits/) and [750W](http://solarbike.com.au/electrickits/750-watt-8fun-mid-drive-kit/)
 
 # Related Works
 
