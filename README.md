@@ -125,8 +125,11 @@ Taken from: https://ops.fhwa.dot.gov/FREIGHT/publications/size_regs_final_rpt/in
 * S-S Bicycle Torque Coupling For Quickly Assembling-Disassembling Bike Frames: http://sandsmachine.com/
 * Mid-drive kits from solarbike.com: [250-350W](http://solarbike.com.au/electrickits/250-350-watt-8fun-mid-drive-kits/) and [750W](http://solarbike.com.au/electrickits/750-watt-8fun-mid-drive-kit/)
 * Flexible Solar Panel 18V 2.7A (48.6W), 56cmx54cmx0.2cm [Amazon](https://www.amazon.fr/MOHOO-Photovolta%C3%AFque-Semi-Flexible-Transformation-l%C3%A9lectricit%C3%A9-Construction/dp/B06XWCD5K6/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1516489784&sr=1-1-catcorr&keywords=sunpower+18V)
+* Folding Bikes: http://enbeecycling.co.uk/bicycles/folding-bicycles/
 
 # Related Works
 
 * Maxun solar bike: http://maxun.cc/solar-cycling
 * e-lectrike vehicles: http://e-lectrike.lu/vehicles/
+* Dominic Tarr's DIY Folding Recumbent: https://www.flickr.com/photos/dominictarr/sets/72157641235154114
+
