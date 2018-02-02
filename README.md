@@ -123,13 +123,16 @@ Taken from: https://ops.fhwa.dot.gov/FREIGHT/publications/size_regs_final_rpt/in
 # Possibly Useful Components
 
 * S-S Bicycle Torque Coupling For Quickly Assembling-Disassembling Bike Frames: http://sandsmachine.com/
-* Mid-drive kits from solarbike.com: [250-350W](http://solarbike.com.au/electrickits/250-350-watt-8fun-mid-drive-kits/) and [750W](http://solarbike.com.au/electrickits/750-watt-8fun-mid-drive-kit/)
+* Mid-drive kits from solarbike.com: [250-350W](http://solarbike.com.au/electrickits/250-350-watt-8fun-mid-drive-kits/) and [750W](http://solarbike.com.au/electrickits/750-watt-8fun-mid-drive-kit/) with reviews from Electric Bike (https://www.electricbike.com/bafang-bbso2-750w-mid-drive/)
 * Flexible Solar Panel 18V 2.7A (48.6W), 56cmx54cmx0.2cm 1.5kg [Amazon](https://www.amazon.fr/MOHOO-Photovolta%C3%AFque-Semi-Flexible-Transformation-l%C3%A9lectricit%C3%A9-Construction/dp/B06XWCD5K6/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1516489784&sr=1-1-catcorr&keywords=sunpower+18V)
 * Folding Bikes: http://enbeecycling.co.uk/bicycles/folding-bicycles/
+* NuVinci Continuously-Variable Transmission: http://www.nuvincicycling.com/en/home.html, Supplier (https://www.ebay.com/itm/NuVinci-N360-Internally-Geared-Rear-36H-Bicycle-Hub-Silver-Disc-OEM/191996070239?epid=2255995091&hash=item2cb3db895f:g:MFAAAOSwHEhaAi7U#rwid)
 
 # Related Works
 
 * Maxun solar bike: http://maxun.cc/solar-cycling
 * e-lectrike vehicles: http://e-lectrike.lu/vehicles/
 * Dominic Tarr's DIY Folding Recumbent: https://www.flickr.com/photos/dominictarr/sets/72157641235154114
+* Declic Eco Builds (also sells components in France): http://www.declic-eco.fr/nos-realisations
+
 
